@@ -1,3 +1,7 @@
+
+  ▄▀█ █▄▄ █▀█ █░█ ▀█▀   █▀▄▀█ █▀▀
+  █▀█ █▄█ █▄█ █▄█ ░█░   █░▀░█ ██▄
+ 
  👋 Hi, I’m Saurya.
 - 🌱 I’m currently learning Machine learning, Data Visualization, Data Science, R language.
 - 💞️ I’m looking to collaborate on Data Science.
